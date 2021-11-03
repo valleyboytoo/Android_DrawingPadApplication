@@ -1,10 +1,10 @@
 # Android_DrawingPadApplication
 
-specifications
+# specifications
 
 The app will contain a main drawing area and, at the bottom, a tool section where the user can select a line width and a color.
 
-Key elements
+# Key elements
 
  The app should contain two screens (activities). The first will feature a small animation that makes the app name (Android Drawing Pad) slide across the screen. The second will be the app's main screen.
 
