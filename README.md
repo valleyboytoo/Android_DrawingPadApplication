@@ -1,6 +1,6 @@
 # Android_DrawingPadApplication
 
-# specifications
+# Specifications
 
 The app will contain a main drawing area and, at the bottom, a tool section where the user can select a line width and a color.
 
